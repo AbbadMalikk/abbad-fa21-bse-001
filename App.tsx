@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#e0e0e0',
     borderRadius: 20,
     marginRight: 10,
+    marginBottom:30
   },
   selectedCategoryButton: {
     backgroundColor: '#4caf50',
